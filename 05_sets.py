@@ -8,6 +8,7 @@ b={}
 print(b)
 print(type(b)) # show dictionary type
 
+# testing comment
 # for empty set :
 c=set()
 print(c)
