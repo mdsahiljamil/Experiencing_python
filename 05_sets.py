@@ -9,6 +9,7 @@ print(b)
 print(type(b)) # show dictionary type
 
 # testing comment
+# testing comment 2
 # for empty set :
 c=set()
 print(c)
