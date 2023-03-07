@@ -24,3 +24,4 @@ print(myDict["sahil"]) # this will print the value of sahil
 
 # print(myDict.get("sahil2")) # it print none
 # print(myDict["sahil2"]) # it will throw an error
+ 
